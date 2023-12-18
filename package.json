@@ -1,7 +1,7 @@
 {
   "name": "@gourabchatterjee/modal",
   "private": false,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A library for create simple modal",
   "type": "module",
   "main": "dist/main.js",
